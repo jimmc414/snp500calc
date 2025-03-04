@@ -81,6 +81,9 @@ You'll be asked to provide:
 
 The program will then calculate and display a year-by-year breakdown of your investment growth.
 
+![image](https://github.com/user-attachments/assets/8fd514c0-2d62-4dc1-a00d-26fe2ebc8456)
+
+
 ## Example
 
 ```
