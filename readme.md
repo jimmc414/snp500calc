@@ -1,6 +1,6 @@
 # S&P 500 Monthly Investment Growth Calculator
 
-A simple yet informative Python tool that demonstrates the long-term impact of consistent monthly investments in the S&P 500 index.
+A simple Python tool that demonstrates the long-term impact of consistent monthly investments in the S&P 500 index.
 
 > **"Time in the market beats timing the market."**
 
